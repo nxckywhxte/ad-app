@@ -4,7 +4,7 @@ module.exports = {
         'eslint:recommended',
         'plugin:@typescript-eslint/recommended',
         'plugin:react/recommended',
-        // 'plugin:import/recommended',
+        'plugin:import/recommended',
         'plugin:jsx-a11y/recommended',
         'plugin:@typescript-eslint/recommended',
         'eslint-config-prettier',
